@@ -7,14 +7,14 @@
 타겟 플랫폼	Android / PC / Web
 개발 기간	2024/05/16 ~ 2024/05/24
 
-팀원 
+## 팀원 
 
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/7572dd79-ad73-46fb-91f8-d8d8e43dce3e)
 
 
 
-//![header](https://capsule-render.vercel.app/api?text=게임소개&fontAlign=50)
-게임소개
+
+## 게임소개
 
 
 
@@ -27,10 +27,9 @@
 
 
 
-기능소개
-//![header](https://capsule-render.vercel.app/api?text=기능소개&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?text=기능소개&fontAlign=50)
 
-
+## 조작법
 
 캐릭터 : A D 이동
 
