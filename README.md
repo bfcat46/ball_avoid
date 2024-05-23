@@ -1,9 +1,11 @@
-# 공 피하기
+# BallAvoid
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/029de790-d77e-4aea-a264-e2169f680c4e)
+
 
 ### 게임명 : 공피하기
 ### 개발 환경	: Unity 2022.3.2f1
 ### 개발 기간	: 2024/05/16 ~ 2024/05/24
+
 
 ## 팀원 
 
