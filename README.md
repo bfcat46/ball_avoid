@@ -29,10 +29,11 @@
 ### 캐릭터 선택
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/fd074afa-7820-47a6-8be4-480537dc89b4)
 ### 환경 설정(볼륨 설정)
-![image](https://github.com/bfcat46/ball_avoid/assets/54877137/07021c29-030b-480d-a053-9c275c2a8c7a
+![image](https://github.com/bfcat46/ball_avoid/assets/54877137/e325d8ce-ef4a-4eab-b7dc-e57beab4025b)
 ### 게임 스타트
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/4495d402-60e4-471e-80bb-c22e4b9f5d9b)
-
+### 게임 오버창
+![image](https://github.com/bfcat46/ball_avoid/assets/54877137/a5aacc28-f1c8-440c-bae2-e7f22e6f32c4)
 
 ## 스크립트 별 설명
 |기능 이름| 기능 설명 | 스크립트 |
