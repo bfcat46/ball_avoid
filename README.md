@@ -1,11 +1,9 @@
-# ball_avoid
+# 공 피하기
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/029de790-d77e-4aea-a264-e2169f680c4e)
 
-게임명 : 공피하기
-장르	:  아케이드
-개발 환경	Unity 2022.3.2f1
-타겟 플랫폼	Android / PC / Web
-개발 기간	2024/05/16 ~ 2024/05/24
+### 게임명 : 공피하기
+### 개발 환경	: Unity 2022.3.2f1
+### 개발 기간	: 2024/05/16 ~ 2024/05/24
 
 ## 팀원 
 
@@ -34,6 +32,6 @@
 캐릭터 : A D 이동
 
 
-링크
-영상 : https://www.notion.so/teamsparta/5-30b70d35a0544dda849b0b5cf2b0760e?pvs=4#4a274909c3a04f239ceb743a878cec1e
-노션 : https://www.notion.so/teamsparta/5-30b70d35a0544dda849b0b5cf2b0760e
+## 링크
+[영상](https://www.notion.so/teamsparta/5-30b70d35a0544dda849b0b5cf2b0760e?pvs=4#4a274909c3a04f239ceb743a878cec1e)
+[노션](https://www.notion.so/teamsparta/5-30b70d35a0544dda849b0b5cf2b0760e/)
