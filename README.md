@@ -37,8 +37,8 @@
 |OnCollisionEnter2D|볼이 다른 오브젝트 충돌할 때 호출됩니다. 충돌시 Gronud와 Player 인 경우에 따라서 결과값을 다르게 한다.|Ball|
 |ActivateShield()|방패를 활성화 하고 ShieldTimer 코루틴을 시작하여 방패 지속 시간 동안 방패를 활성화합니다.|Player|
 |ShieldTimer()|10초동안 방패를 활성화, 시간이 지나면 방패를 비활성화|Player|
-| | | |
-| | | |
+|HandleVolumeChange(float volume)|OnVolumeChange 이벤트를 발생시켜서 등록된 모든 이벤트에 변경된 불륨 값을 전달합니다. |VolumeSlider|
+|ChoiceCharacter(int num)|선택한 캐릭터 번호에 해당하는 캐릭터 이미지를SelectedCharacter에 설정합니다.|IntroUI|
 ## 파일 구조 및 와이어프레임
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/d3492073-4a19-4894-882d-75c6d1efd2c2)
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/93f4a3a8-2a59-45aa-89f7-507af5490e7e)
