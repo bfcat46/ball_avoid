@@ -23,7 +23,17 @@
 
 ### 캐릭터 이동 : A D
 
-### 게임 기능
+## 게임 기능
+### 메인 화면(우측 상단 캐릭터 선택)
+![image](https://github.com/bfcat46/ball_avoid/assets/54877137/e7cc581a-e508-49ba-b2c1-c26417921ed8)
+### 캐릭터 선택
+![image](https://github.com/bfcat46/ball_avoid/assets/54877137/fd074afa-7820-47a6-8be4-480537dc89b4)
+### 환경 설정(볼륨 설정)
+![image](https://github.com/bfcat46/ball_avoid/assets/54877137/07021c29-030b-480d-a053-9c275c2a8c7a
+### 게임 스타트
+![image](https://github.com/bfcat46/ball_avoid/assets/54877137/4495d402-60e4-471e-80bb-c22e4b9f5d9b)
+
+
 ## 스크립트 별 설명
 |기능 이름| 기능 설명 | 스크립트 |
 |:------:|:---:|:---:|
