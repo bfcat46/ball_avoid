@@ -13,7 +13,11 @@
 
 
 
-게임 소개
+![header](https://capsule-render.vercel.app/api?text=게임소개&fontAlign=50)
+
+
+
+
 
 
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/30e8ccee-7b5f-49b4-8635-359ce6fdfff5)
@@ -22,7 +26,12 @@
 
 
 
-🔧 기능 소개
+
+
+![header](https://capsule-render.vercel.app/api?text=기능소개&fontAlign=50)
+
+
+
 캐릭터 : A D 이동
 
 
