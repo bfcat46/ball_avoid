@@ -26,12 +26,13 @@
 
 
 
+### 캐릭터 : A D 이동
 
-![header](https://capsule-render.vercel.app/api?text=기능소개&fontAlign=50)
+## 와이어프레임
+![image](https://github.com/bfcat46/ball_avoid/assets/54877137/d3492073-4a19-4894-882d-75c6d1efd2c2)
+![image](https://github.com/bfcat46/ball_avoid/assets/54877137/93f4a3a8-2a59-45aa-89f7-507af5490e7e)
 
-## 조작법
 
-캐릭터 : A D 이동
 
 
 ## 링크
