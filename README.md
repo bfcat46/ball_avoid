@@ -28,9 +28,12 @@
 
 ### 캐릭터 : A D 이동
 
-## 와이어프레임
+## 파일 구조 및 와이어프레임
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/d3492073-4a19-4894-882d-75c6d1efd2c2)
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/93f4a3a8-2a59-45aa-89f7-507af5490e7e)
+![image](https://github.com/bfcat46/ball_avoid/assets/54877137/59619e28-2056-426a-9b7c-8bd0844d17bc)
+![image](https://github.com/bfcat46/ball_avoid/assets/54877137/24b0c063-bef9-41dc-810f-254475258977)
+
 
 
 
