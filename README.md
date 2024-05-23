@@ -16,17 +16,15 @@
 
 ## 게임소개
 
-
-
-
-
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/30e8ccee-7b5f-49b4-8635-359ce6fdfff5)
 
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/5bda50ed-7d3d-4e18-be62-f4318577ae5c)
 
+## 게임 기능 
 
+### 캐릭터 이동 : A D
 
-### 캐릭터 : A D 이동
+## 스크립트 별 설명
 
 ## 파일 구조 및 와이어프레임
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/d3492073-4a19-4894-882d-75c6d1efd2c2)
@@ -35,6 +33,8 @@
 ![image](https://github.com/bfcat46/ball_avoid/assets/54877137/24b0c063-bef9-41dc-810f-254475258977)
 
 
+## 팀이 겪은 트러블 슈팅
+![image](https://github.com/bfcat46/ball_avoid/assets/54877137/c5bb0b23-354d-4b65-9b98-c54a1f96884a)
 
 
 
