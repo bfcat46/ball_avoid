@@ -13,8 +13,8 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?text=게임소개&fontAlign=50)
-
+//![header](https://capsule-render.vercel.app/api?text=게임소개&fontAlign=50)
+게임소개
 
 
 
@@ -27,8 +27,8 @@
 
 
 
-
-![header](https://capsule-render.vercel.app/api?text=기능소개&fontAlign=50)
+기능소개
+//![header](https://capsule-render.vercel.app/api?text=기능소개&fontAlign=50)
 
 
 
